@@ -1,1 +1,1 @@
-# Principal Developemental Trajectories estimation
+# Principal Developemental Trajectories Estimation
